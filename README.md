@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 打游戏
 你会喝酒吗？
 我不会
+你会什么
+我什么都不会
